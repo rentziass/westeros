@@ -1,0 +1,6 @@
+= westeros
+
+Describe your project here
+
+:include:westeros.rdoc
+

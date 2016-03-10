@@ -1,0 +1,5 @@
+= westeros
+
+Generate this with
+    westeros rdoc
+After you have described your command line interface
